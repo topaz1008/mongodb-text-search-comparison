@@ -1,0 +1,9 @@
+{
+    "name": "mongodb-text-search",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "mongodb": "1.4.*",
+        "q": "1.0.*"
+    }
+}
