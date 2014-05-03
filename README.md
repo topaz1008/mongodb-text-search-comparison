@@ -1,4 +1,4 @@
-mongodb-text-search
+mongodb-text-search-comparison
 ====================================
 
 A benchmark/comparison Node.js application which compares the performance of a text search query using regex patterns, and using the new $text operator and index type.
